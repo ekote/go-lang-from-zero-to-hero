@@ -5,14 +5,17 @@ IDE
 	- PyCharm / IntelliJ + [Go plugin](https://plugins.jetbrains.com/plugin/5047?pr=idea)
 
 Key areas:
+
     * convey
     * mockgen
     * vendor
     
 Breakfast with:
+
 	- https://youtu.be/rKnDgT73v8s
 
 Resources:
+
 	- The Go Programming Language Documentation: http://golang.org/doc/
 	- A Tour of Go http://tour.golang.org/
 	- How to write Go code The Go Programming Language http://golang.org/doc/code.html
