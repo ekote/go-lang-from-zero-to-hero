@@ -11,6 +11,7 @@ Key areas:
     * vendor
     
 Resources:
+
 	- https://github.com/thewhitetulip/web-dev-golang-anti-textbook
 	- https://github.com/ardanlabs/gotraining
 	- https://www.udemy.com/learn-how-to-code
