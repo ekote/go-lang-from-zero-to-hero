@@ -10,6 +10,11 @@ Key areas:
     * mockgen
     * vendor
     
+Resources:
+	- https://github.com/thewhitetulip/web-dev-golang-anti-textbook
+	- https://github.com/ardanlabs/gotraining
+	- https://www.udemy.com/learn-how-to-code
+    
 Breakfast with:
 
 	- https://youtu.be/rKnDgT73v8s
